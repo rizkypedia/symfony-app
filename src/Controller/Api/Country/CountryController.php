@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Controller\Api;
+namespace App\Controller\Api\Country;
 
 use App\Entity\Country;
 use FOS\RestBundle\Controller\Annotations as Rest;
